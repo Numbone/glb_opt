@@ -102,3 +102,4 @@ The following categories contain real engineering problems. The description tell
 - **Frontend:** React 18, React Router v6, Socket.IO Client, Vite, TypeScript
 - **Infrastructure:** Docker, Docker Compose
 # global_optima
+# glb_opt
